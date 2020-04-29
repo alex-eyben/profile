@@ -1,5 +1,4 @@
 body {
-  background-image: url(images/ben-krygsman-g8hHM7rc-kw-unsplash.jpg);
   background-color: rgb(255, 249, 247);
   font-family: 'Open Sans', sans-serif;
   font-size: 17px;
@@ -33,6 +32,7 @@ a {
     border-radius: 5px;
     margin: 40px 70px;
     text-align: center;
+    opacity: 0.7;
 }
 
 .img-circle {
